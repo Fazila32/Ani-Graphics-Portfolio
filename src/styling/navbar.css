@@ -31,7 +31,7 @@
   padding: 0 1rem;
 }
 .nav-menu li a {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 500;
   color: #fff;
 }
@@ -62,7 +62,7 @@
   .nav-menu li {
     padding: 1rem 0;
   }
-  .nav-menu li {
+  .nav-menu li a {
     font-size: 2rem;
   }
   .hamburger {

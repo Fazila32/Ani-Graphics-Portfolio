@@ -27,9 +27,9 @@ function LatestWork() {
     { id: 10, value: Work11 },
     //
   ];
-  const [WorkData, setWorkData] = useState(imgs[0]);
+  const [WorkData, setWorkData] = useState(imgs[1]);
   const handleClick = (index) => {
-    console.log(index);
+    // console.log(index);
     const wordSlider = imgs[index];
     setWorkData(wordSlider);
   };

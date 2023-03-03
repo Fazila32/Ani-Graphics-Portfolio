@@ -11,7 +11,8 @@ const Facts = () => {
           <div className="row">
             <li className="col-md-3 col-sm-4 col-xs-6">
               <h4> Years of Experience</h4>
-              <CountUp end={4} />+
+              <CountUp end={4} />
+              <span>+</span>
             </li>
             <li className="col-md-2 col-sm-4 col-xs-6">
               <h4> Projects</h4>
@@ -27,9 +28,8 @@ const Facts = () => {
             </li>
             <li className="col-md-2 col-sm-4 col-xs-6">
               <h4> Happy Clients </h4>
-              <span id="number6" className="count6">
-                100
-              </span>
+
+              <CountUp end={100} />
             </li>
           </div>
         </ul>

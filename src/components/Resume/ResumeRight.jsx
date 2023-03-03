@@ -74,7 +74,7 @@ function ResumeRight() {
             </div>
           </div>
           <div class="exp">
-            <div class="title">Education</div>
+            <div class="title">Experience</div>
             <div class="exp_wrap">
               <ul>
                 <li>

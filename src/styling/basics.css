@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&family=Lobster&family=Nunito:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&family=Lobster&family=Nunito:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
 * {
   margin: 0px;
   padding: 0px;
@@ -93,9 +94,11 @@ h6 {
   color: rgb(12, 73, 73);
   text-align: center;
   margin-top: 70px;
-  font-size: 2rem;
+  font-size: 1.5rem;
+  font-weight: bolder;
   text-transform: capitalize;
-  font-family: "Lobster", cursive;
+  /* font-family: "Lobster", cursive; */
+  font-family: "Dancing Script", cursive !important;
 }
 h2 {
   /* display: flex;

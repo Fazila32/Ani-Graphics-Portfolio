@@ -1,9 +1,3 @@
-/* .w-left-content {
-  width: 90%;
-  /* margin: auto; */
-/* w-left {
-  margin-top: 90px;
-} */
 .w-right {
   padding-top: 30px;
 }
@@ -44,15 +38,8 @@
 }
 
 @media (max-width: 992px) {
-  /* .w-left {
-    background: pink;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  } */
   p.w-left-para {
     margin: 60px auto !important;
-    /* margin-top: 30px; */
     text-align: center !important;
   }
 }

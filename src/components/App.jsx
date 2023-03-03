@@ -9,11 +9,13 @@ import Portfolio from "../Pages/Portfolio";
 import Contact from "../Pages/Contact";
 import Resume from "../Pages/Resume";
 import Footer from "./Footer";
+import ScrollTop from "./scrolltop/ScrollTop";
 
 function App() {
   return (
     <div>
       <Navbar />
+      <ScrollTop />
       <Routes>
         <Route exact path="/" element={<Main />} />
         <Route exact path="/portfolio" element={<Portfolio />} />

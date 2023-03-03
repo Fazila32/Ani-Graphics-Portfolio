@@ -39,35 +39,6 @@ const Works = () => {
         </div>
       </div>
     </div>
-
-    // <div className="works row">
-    //   <h6>works</h6>
-    //   <h2>Works for all these clients</h2>
-    //   <div className="w-left col-lg-6">
-    //     <div className="w-left-content">
-    //       <p style={{ textAlign: "left", width: "90%" }}>
-    //         Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-    //         ducimus pariatur alias iusto natus ad deserunt quis et velit,
-    //         voluptas aliquam omnis, magni eaque! Nisi consequatur ullam debitis
-    //         cumque laboriosam?
-    //       </p>
-    //     </div>
-    //   </div>
-    //   <div className="w-right col-lg-5 text-center">
-    //     <div className="rightImages">
-    //       <div>
-    //         <img src={Upwork} alt="" />
-    //       </div>
-    //       <div className="worksImg">
-    //         <img src={Fiverr} alt="" />
-    //         <img src={Facebook} alt="" />
-    //       </div>
-    //       <div>
-    //         <img src={Upwork} alt="" />
-    //       </div>
-    //     </div>
-    //   </div>
-    // </div>
   );
 };
 

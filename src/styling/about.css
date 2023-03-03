@@ -23,7 +23,7 @@
   border: 1px solid rgba(255, 255, 255, 0.06);
   padding: 7px 10px;
   border-radius: 20px;
-  backdrop-filter: blur(10px);
+  /* backdrop-filter: blur(10px); */
 }
 .bar div {
   position: relative;
